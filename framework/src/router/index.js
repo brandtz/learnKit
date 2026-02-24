@@ -1,7 +1,14 @@
 import { createRouter, createWebHistory } from 'vue-router'
 import DashboardView from '@/components/dashboard/DashboardView.vue'
+import { useAuth } from '@/composables/useAuth'
 
 const routes = [
+  {
+    path: '/login',
+    name: 'login',
+    component: () => import('@/components/auth/LoginView.vue'),
+    meta: { public: true }
+  },
   {
     path: '/',
     name: 'dashboard',
@@ -40,6 +47,17 @@ const router = createRouter({
   scrollBehavior(to, from, savedPosition) {
     if (savedPosition) return savedPosition
     return { top: 0 }
+  }
+})
+
+// Auth guard — redirect to /login if not authenticated
+router.beforeEach((to) => {
+  const { isAuthenticated } = useAuth()
+  if (!to.meta.public && !isAuthenticated.value) {
+    return { name: 'login' }
+  }
+  if (to.name === 'login' && isAuthenticated.value) {
+    return { name: 'dashboard' }
   }
 })
 

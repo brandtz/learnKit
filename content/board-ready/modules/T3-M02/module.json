@@ -2,8 +2,8 @@
   "id": "T3-M02",
   "tierId": "T3",
   "title": "The Board of Directors — Current Members & Governance Structure",
-  "estimatedMinutes": 15,
-  "tags": ["Springfield", "Board Members"],
+  "estimatedMinutes": 45,
+  "tags": ["Springfield", "Board Members", "Governance"],
   "sources": [
     {
       "label": "Springfield SD 19",
@@ -13,17 +13,18 @@
     }
   ],
   "takeaways": [
-    "Springfield's board consists of 5 elected members representing geographic zones within the district.",
-    "Position 2 is currently vacant (as of February 2026) — the board is conducting an appointment process.",
+    "Springfield's board consists of 7 elected members — 5 from geographic zones and 2 at-large.",
+    "All members serve 4-year staggered terms; elections are held in May of odd-numbered years.",
     "Regular meetings are the 2nd Monday at 7:00 PM; Work Sessions are the 4th Monday at 5:30 PM.",
-    "The board chair is selected by the board no later than the first regular meeting after July 1 each year."
+    "The board chair is selected by the board no later than the first regular meeting after July 1 each year.",
+    "A quorum is 4 members (majority of 7); committees are advisory and do not take binding action."
   ],
   "knowledgeCheck": [
     {
       "question": "Springfield SD 19 has a 7-member school board.",
       "type": "true_false",
-      "correct": false,
-      "explanation": "Springfield SD 19 has a 5-member board of directors. As of February 2026, Position 2 is vacant and being filled through an appointment process."
+      "correct": true,
+      "explanation": "Springfield SD 19 has a 7-member board of directors — 5 members elected from geographic zones and 2 elected at-large by all district voters."
     },
     {
       "question": "Regular board meetings are held on:",

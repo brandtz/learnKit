@@ -2,7 +2,7 @@
   "id": "T3-M01",
   "tierId": "T3",
   "title": "Springfield Public Schools — District Overview",
-  "estimatedMinutes": 20,
+  "estimatedMinutes": 45,
   "tags": ["Springfield", "District", "Foundations"],
   "sources": [
     {
@@ -31,10 +31,11 @@
     }
   ],
   "takeaways": [
-    "Springfield SD 19 serves approximately 8,000+ students across 21 schools from pre-kindergarten through grade 12.",
-    "The district covers a wide geographic area including Springfield, Goshen, Mohawk, Walterville, and Marcola in Lane County.",
+    "Springfield SD 19 serves approximately 10,000+ students across 21+ schools from pre-kindergarten through grade 12.",
+    "The district covers a wide geographic area including Springfield, Thurston, Goshen, Mohawk, Walterville, and Marcola in Lane County.",
+    "The general fund budget is approximately $130–$145 million, with ~85% going to personnel costs.",
     "The superintendent is the chief executive of the district and reports directly to the board — not to individual members.",
-    "Understanding the district's size, structure, and community context is foundational to effective board service."
+    "About 60–65% of students qualify for free/reduced-price meals — significantly above the state average."
   ],
   "knowledgeCheck": [
     {
@@ -46,9 +47,9 @@
     {
       "question": "Approximately how many students does Springfield SD 19 serve?",
       "type": "multiple_choice",
-      "options": ["About 3,000", "About 5,000", "About 8,000", "About 15,000"],
+      "options": ["About 3,000", "About 5,000", "About 10,000", "About 20,000"],
       "correct": 2,
-      "explanation": "Springfield SD 19 serves approximately 8,000+ students across 21 schools from pre-kindergarten through grade 12."
+      "explanation": "Springfield SD 19 serves approximately 10,000–10,500 students across 21+ schools from pre-kindergarten through grade 12."
     }
   ]
 }
