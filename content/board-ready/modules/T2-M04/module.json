@@ -1,0 +1,53 @@
+{
+  "id": "T2-M04",
+  "tierId": "T2",
+  "title": "Oregon School Boards Association (OSBA) — Purpose & Member Benefits",
+  "estimatedMinutes": 20,
+  "tags": ["OSBA", "Resources"],
+  "sources": [
+    {
+      "label": "OSBA",
+      "title": "OSBA Homepage",
+      "url": "https://www.osba.org/",
+      "summary": "The Oregon School Boards Association's main website, providing access to resources, training, policy services, and advocacy for Oregon school board members."
+    },
+    {
+      "label": "OSBA",
+      "title": "New Board Member Resources",
+      "url": "https://www.osba.org/Resources/Article/Board_Operations/NewBoardMembers.aspx",
+      "summary": "OSBA's dedicated resource page for newly elected or appointed school board members, including orientation checklists and key documents."
+    },
+    {
+      "label": "OSBA",
+      "title": "Training & Events",
+      "url": "https://www.osba.org/training-and-events/",
+      "summary": "OSBA's calendar of training opportunities, conferences, and professional development events for Oregon school board members."
+    }
+  ],
+  "takeaways": [
+    "OSBA is the professional association for all Oregon school board members — membership is through the district.",
+    "OSBA provides model policies, legal guidance, training, and advocacy at the state level.",
+    "New board members should immediately access OSBA's onboarding resources and the Boardsmanship guide.",
+    "OSBA is a primary provider of the state-mandated public meeting law training (required since Jan 1, 2024)."
+  ],
+  "knowledgeCheck": [
+    {
+      "question": "Individual board members must purchase their own OSBA membership.",
+      "type": "true_false",
+      "correct": false,
+      "explanation": "OSBA membership is held by the school district, not individual members. All board members of a member district have access to OSBA resources and services."
+    },
+    {
+      "question": "Which of the following is NOT a service provided by OSBA?",
+      "type": "multiple_choice",
+      "options": [
+        "Model policy development",
+        "Public meeting law training",
+        "Hiring superintendents for districts",
+        "Legislative advocacy"
+      ],
+      "correct": 2,
+      "explanation": "OSBA provides policy services, training, and advocacy, but does not hire superintendents — that is the responsibility of the local school board."
+    }
+  ]
+}

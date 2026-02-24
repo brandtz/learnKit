@@ -1,0 +1,59 @@
+{
+  "id": "T1-M02",
+  "tierId": "T1",
+  "title": "Parliamentary Procedure & Robert's Rules",
+  "estimatedMinutes": 30,
+  "tags": ["Governance", "Meetings", "Robert's Rules"],
+  "sources": [
+    {
+      "label": "OSBA",
+      "title": "Robert's Rules Simplified for Oregon Boards",
+      "url": "https://www.osba.org/roberts-rules-simplified-2/",
+      "summary": "OSBA's simplified guide to Robert's Rules of Order adapted specifically for Oregon school board meetings."
+    },
+    {
+      "label": "External",
+      "title": "Robert's Rules for School Board Directors",
+      "url": "https://jurassicparliament.com/roberts-rules-for-school-board-directors/",
+      "summary": "Practical guide to parliamentary procedure written specifically for school board directors, with common scenarios and examples."
+    },
+    {
+      "label": "External",
+      "title": "How School Boards Use Robert's Rules for Efficient Meetings",
+      "url": "https://www.diligent.com/resources/blog/how-school-boards-roberts-rules-order-more-efficient-meetings",
+      "summary": "Overview of how school boards apply Robert's Rules to run efficient, productive meetings with clear decision-making."
+    }
+  ],
+  "takeaways": [
+    "A motion requires a second before it can be discussed — this ensures at least two members want to consider the item.",
+    "The chair should remain neutral during debate and only votes to break a tie (in most board rules).",
+    "A quorum (majority of board members) must be present for any official business to take place.",
+    "Motions have a specific order of precedence — privileged motions outrank subsidiary, which outrank main motions."
+  ],
+  "knowledgeCheck": [
+    {
+      "question": "A motion can be discussed immediately after being made, without a second.",
+      "type": "true_false",
+      "correct": false,
+      "explanation": "A motion must receive a second before it can be discussed. This ensures at least two members are interested in considering the item."
+    },
+    {
+      "question": "What is a quorum?",
+      "type": "multiple_choice",
+      "options": [
+        "All board members present",
+        "A majority of board members",
+        "At least two board members",
+        "The board chair plus one member"
+      ],
+      "correct": 1,
+      "explanation": "A quorum is a majority of the board members. Without a quorum, no official business can be conducted."
+    },
+    {
+      "question": "The board chair should actively debate motions before the board.",
+      "type": "true_false",
+      "correct": false,
+      "explanation": "The chair should remain neutral during debate. If the chair wishes to participate in debate, they should temporarily pass the gavel to the vice-chair."
+    }
+  ]
+}

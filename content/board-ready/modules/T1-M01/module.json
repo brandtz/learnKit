@@ -1,0 +1,64 @@
+{
+  "id": "T1-M01",
+  "tierId": "T1",
+  "title": "Role & Responsibilities of a School Board Member",
+  "estimatedMinutes": 25,
+  "tags": ["Governance", "Foundations"],
+  "sources": [
+    {
+      "label": "OSBA",
+      "title": "How to Be a Board Member",
+      "url": "https://www.osba.org/Resources/Article/Board_Operations/HowToBeABoardMember.aspx",
+      "summary": "OSBA's primary guide covering the legal role of a board member, the nine principles of effective board service, and the critical governance vs. management distinction."
+    },
+    {
+      "label": "OSBA",
+      "title": "Boardsmanship Guide (PDF)",
+      "url": "https://osba.enviseams.com/docs/default-source/default-document-library/2020-12_boardsmanshipbook.pdf",
+      "summary": "Comprehensive guide to effective board service in Oregon, covering ethics, governance, policy development, and community engagement."
+    },
+    {
+      "label": "ORS",
+      "title": "ORS Chapter 332 — Local Administration of Education",
+      "url": "https://www.oregonlegislature.gov/bills_laws/ors/ors332.html",
+      "summary": "Oregon state statute governing local school boards — board composition, powers, duties, and meeting requirements."
+    }
+  ],
+  "takeaways": [
+    "Board authority exists only when the board acts as a body — individual directors have no independent authority.",
+    "The board governs; the superintendent manages. Blurring this is the most common governance failure.",
+    "Fiduciary duty means every decision must serve students and public trust, not personal interests."
+  ],
+  "knowledgeCheck": [
+    {
+      "question": "An individual board member can direct district staff to take action between meetings.",
+      "type": "true_false",
+      "correct": false,
+      "explanation": "Board authority exists only when acting as a full body in a properly noticed meeting. Individual directors cannot direct staff."
+    },
+    {
+      "question": "What is the primary role distinction between a school board and a superintendent?",
+      "type": "multiple_choice",
+      "options": [
+        "The board manages daily operations, the superintendent sets policy",
+        "The board governs and sets policy, the superintendent manages daily operations",
+        "Both share equal management responsibilities",
+        "The superintendent reports to individual board members"
+      ],
+      "correct": 1,
+      "explanation": "The board's role is governance — setting policy, vision, and budget. The superintendent manages day-to-day operations and implements board policy."
+    },
+    {
+      "question": "Fiduciary duty requires board members to act in the interest of:",
+      "type": "multiple_choice",
+      "options": [
+        "Their own community group",
+        "The students and public trust",
+        "The teachers' union",
+        "The school administration"
+      ],
+      "correct": 1,
+      "explanation": "Fiduciary duty means every decision must serve the students and the public trust, not personal or political interests."
+    }
+  ]
+}

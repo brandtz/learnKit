@@ -1,0 +1,29 @@
+## Overview
+
+The Oregon Department of Education (ODE) is the state agency responsible for overseeing public K-12 education across Oregon. ODE serves as the administrative arm of the State Board of Education, implementing statewide education policy, managing federal and state education funding, and providing technical support and oversight to Oregon's nearly 200 school districts. For local school board members, understanding ODE's structure and role is essential because the agency directly shapes the regulatory environment in which districts operate.
+
+ODE's work touches every aspect of a district's operations — from academic standards and graduation requirements to school finance, special education, and data reporting. The agency administers state assessments, oversees compliance with Division 22 standards, distributes State School Fund dollars, and manages federal grants such as Title I and IDEA. When a district faces compliance questions or needs technical assistance, ODE is typically the first point of contact at the state level.
+
+At the top of Oregon's education governance structure sits the State Board of Education, a nine-member body appointed by the Governor and confirmed by the Oregon Senate. The State Board sets statewide education policy and adopts the Oregon Administrative Rules (OARs) that govern public schools. While ODE implements these policies, it is the State Board that establishes the direction. Understanding the distinction between the State Board (policy-setting) and ODE (policy-implementing) helps local board members navigate the state system more effectively and know where to direct questions or advocacy efforts.
+
+## Key Concepts
+
+### ODE Organizational Structure and Agency Mandate
+
+ODE is led by the Director of the Oregon Department of Education, who is appointed by the State Board of Education and serves as the chief executive of the agency. The agency is organized into offices and divisions that cover major areas of education: teaching and learning, student services, school finance, assessment, and district support. ODE's mandate is to ensure that every student in Oregon has access to a high-quality education, and its work includes developing academic standards, administering statewide assessments, managing state and federal funding, and ensuring district compliance with state law and administrative rules. For board members, knowing ODE's organizational structure helps in identifying the right contacts for specific questions — whether about special education, school finance, or accountability.
+
+### State Board of Education vs. Local Board
+
+The Oregon State Board of Education and local school boards serve fundamentally different roles in the education system. The State Board is a Governor-appointed body of nine members that sets statewide education policy, adopts administrative rules, and provides strategic direction for Oregon's public schools. Local school boards, by contrast, are elected by their communities and are responsible for governing individual school districts within the framework established by state law and State Board policy. The two levels of governance are complementary: the State Board sets the standards and expectations, while local boards make the decisions that shape how those standards are implemented in their communities. Local boards do not report directly to the State Board, but they must comply with the rules and standards it adopts.
+
+### ODE Reporting Requirements for Districts
+
+Oregon school districts are required to submit a wide range of data and reports to ODE throughout the school year. These reports cover student enrollment, attendance, demographics, academic performance, staffing, financial data, and compliance with special education and other program requirements. ODE uses this data to monitor district performance, allocate funding, and identify districts that may need additional support or intervention. For board members, understanding the district's reporting obligations is important because these reports often reflect the health and compliance posture of the district. Board members should be aware of key reporting deadlines and should expect the superintendent to provide updates on any reporting issues or findings.
+
+### State School Fund Distribution Mechanics
+
+The State School Fund (SSF) is the primary vehicle through which Oregon distributes state education dollars to local school districts. Funding is allocated based on a formula centered on ADMw — Average Daily Membership, weighted. ADMw starts with a district's student enrollment count and then applies additional weights for students who require extra resources, such as students in special education, English language learners, students in poverty, and students in small or remote schools. The SSF formula is designed to direct more funding to districts with greater student need. For board members, understanding ADMw is critical because it directly determines how much state funding the district receives — and any changes in enrollment or student demographics can significantly affect the district's budget.
+
+### Division 22 Standards Compliance
+
+Division 22 of OAR Chapter 581 establishes the minimum standards that every Oregon public school must meet, covering areas such as instructional time, curriculum, graduation requirements, and student services. ODE is responsible for monitoring compliance with these standards and can take corrective action if a district falls short. The board's governance role includes ensuring that the district's policies, programs, and resource allocations are sufficient to maintain Division 22 compliance. Board members should periodically ask the superintendent to report on the district's compliance status and any areas where improvement is needed, as sustained non-compliance can trigger state intervention and affect the district's standing with ODE.

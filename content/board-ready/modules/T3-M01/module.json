@@ -1,0 +1,54 @@
+{
+  "id": "T3-M01",
+  "tierId": "T3",
+  "title": "Springfield Public Schools — District Overview",
+  "estimatedMinutes": 20,
+  "tags": ["Springfield", "District", "Foundations"],
+  "sources": [
+    {
+      "label": "Springfield SD 19",
+      "title": "About Springfield Public Schools",
+      "url": "https://www.springfield.k12.or.us/about",
+      "summary": "Springfield Public Schools' official about page with district overview, mission statement, and administrative information."
+    },
+    {
+      "label": "Springfield SD 19",
+      "title": "Board of Directors",
+      "url": "https://www.springfield.k12.or.us/about/board",
+      "summary": "Springfield School Board page with current board members, meeting schedules, agendas, and board governance information."
+    },
+    {
+      "label": "External",
+      "title": "Springfield School District — Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Springfield_School_District_(Oregon)",
+      "summary": "Wikipedia overview of Springfield School District including history, demographics, and list of schools."
+    },
+    {
+      "label": "NCES",
+      "title": "NCES District Profile — Springfield SD 19",
+      "url": "https://nces.ed.gov/ccd/districtsearch/district_detail.asp?DistrictID=4111670",
+      "summary": "National Center for Education Statistics profile for Springfield SD 19 with enrollment data, demographics, and school listings."
+    }
+  ],
+  "takeaways": [
+    "Springfield SD 19 serves approximately 8,000+ students across 21 schools from pre-kindergarten through grade 12.",
+    "The district covers a wide geographic area including Springfield, Goshen, Mohawk, Walterville, and Marcola in Lane County.",
+    "The superintendent is the chief executive of the district and reports directly to the board — not to individual members.",
+    "Understanding the district's size, structure, and community context is foundational to effective board service."
+  ],
+  "knowledgeCheck": [
+    {
+      "question": "Springfield SD 19 serves only the city of Springfield.",
+      "type": "true_false",
+      "correct": false,
+      "explanation": "Springfield SD 19's service area extends beyond Springfield to include Goshen, Mohawk, Walterville, and Marcola in Lane County."
+    },
+    {
+      "question": "Approximately how many students does Springfield SD 19 serve?",
+      "type": "multiple_choice",
+      "options": ["About 3,000", "About 5,000", "About 8,000", "About 15,000"],
+      "correct": 2,
+      "explanation": "Springfield SD 19 serves approximately 8,000+ students across 21 schools from pre-kindergarten through grade 12."
+    }
+  ]
+}

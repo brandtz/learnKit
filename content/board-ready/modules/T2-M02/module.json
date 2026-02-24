@@ -1,0 +1,53 @@
+{
+  "id": "T2-M02",
+  "tierId": "T2",
+  "title": "OAR Chapter 581 — Oregon Administrative Rules for Schools",
+  "estimatedMinutes": 30,
+  "tags": ["OAR", "Regulation", "Compliance"],
+  "sources": [
+    {
+      "label": "OAR",
+      "title": "OAR Chapter 581 — Education",
+      "url": "https://oregon.public.law/rules/oar_chapter_581",
+      "summary": "The full index of Oregon Administrative Rules governing education, organized by division, covering governance, standards, finance, and compliance."
+    },
+    {
+      "label": "OAR",
+      "title": "OAR Chapter 581, Division 21 — School Governance",
+      "url": "https://oregon.public.law/rules/oar_chapter_581_division_21",
+      "summary": "Administrative rules specifically governing school district governance, student conduct, and district board proceedings."
+    },
+    {
+      "label": "ODE",
+      "title": "ODE Rules Division Reference",
+      "url": "https://www.oregon.gov/ode/rules-and-policies/StateRules/Pages/ODERulesDivision.aspx",
+      "summary": "ODE's reference page for navigating Oregon Administrative Rules by division, with plain-language summaries of each section."
+    }
+  ],
+  "takeaways": [
+    "OARs are the detailed regulations that implement Oregon statutes — they tell districts HOW to comply with the law.",
+    "Division 22 standards define minimum requirements for instruction, curriculum, and school operations.",
+    "Division 23 governs school finance, budgeting, and reporting — critical knowledge for budget oversight.",
+    "Non-compliance with OARs can trigger ODE intervention and jeopardize state funding."
+  ],
+  "knowledgeCheck": [
+    {
+      "question": "Oregon Administrative Rules (OARs) are created by the Oregon Legislature.",
+      "type": "true_false",
+      "correct": false,
+      "explanation": "OARs are created by state agencies (like ODE and the State Board of Education) to implement statutes passed by the Legislature. They have the force of law but are regulatory, not legislative."
+    },
+    {
+      "question": "Which OAR Division sets the minimum standards for Oregon public schools?",
+      "type": "multiple_choice",
+      "options": [
+        "Division 21",
+        "Division 22",
+        "Division 23",
+        "Division 24"
+      ],
+      "correct": 1,
+      "explanation": "Division 22 of OAR Chapter 581 establishes the Standards for Public Elementary and Secondary Schools, including minimum instructional and operational requirements."
+    }
+  ]
+}

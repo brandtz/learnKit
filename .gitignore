@@ -1,0 +1,38 @@
+# Dependencies
+node_modules/
+
+# Build output
+dist/
+*.local
+
+# Environment variables
+.env
+.env.*
+!.env.example
+
+# Pipeline artifacts
+content/*/agenda/pdfs/
+content/*/agenda/text/
+content/*/agenda/summaries/
+
+# Logs
+*.log
+npm-debug.log*
+
+# Editor / IDE
+.vscode/*
+!.vscode/settings.json
+!.vscode/extensions.json
+*.swp
+*.swo
+*~
+
+# OS files
+.DS_Store
+Thumbs.db
+Desktop.ini
+ehthumbs.db
+
+# Vite
+*.local
+.vite/

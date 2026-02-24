@@ -1,0 +1,59 @@
+{
+  "id": "T2-M01",
+  "tierId": "T2",
+  "title": "ORS Chapter 332 — Oregon School Board Law",
+  "estimatedMinutes": 35,
+  "tags": ["ORS", "Statute", "Governance"],
+  "sources": [
+    {
+      "label": "ORS",
+      "title": "ORS Chapter 332 — Local Administration of Education",
+      "url": "https://www.oregonlegislature.gov/bills_laws/ors/ors332.html",
+      "summary": "The core Oregon statute governing school board composition, powers, duties, elections, vacancies, and meeting requirements."
+    },
+    {
+      "label": "Oregon Legislature",
+      "title": "Oregon Legislature Homepage",
+      "url": "https://www.oregonlegislature.gov/",
+      "summary": "The official Oregon Legislature portal for accessing all Oregon Revised Statutes and current legislation."
+    }
+  ],
+  "takeaways": [
+    "ORS 332 is the foundational statute for all Oregon school boards — it defines board powers, composition, and procedures.",
+    "Board vacancies must be filled within a specific statutory timeframe, and appointed members serve only until the next regular election.",
+    "Meeting notice requirements protect the public's right to participate in governance decisions.",
+    "The board's authority is limited to what is explicitly granted or reasonably implied by Oregon law."
+  ],
+  "knowledgeCheck": [
+    {
+      "question": "ORS Chapter 332 grants school boards unlimited authority over district operations.",
+      "type": "true_false",
+      "correct": false,
+      "explanation": "School board authority is limited to powers explicitly granted or reasonably implied by ORS 332 and other applicable statutes. Boards cannot act beyond their statutory authority."
+    },
+    {
+      "question": "How must a board vacancy be filled under Oregon law?",
+      "type": "multiple_choice",
+      "options": [
+        "By special election within 30 days",
+        "By board appointment, with the appointee serving until the next regular election",
+        "By the superintendent appointing a replacement",
+        "By the governor appointing a replacement"
+      ],
+      "correct": 1,
+      "explanation": "Under ORS 332, board vacancies are filled by appointment by the remaining board members. The appointed member serves until the next regular school board election."
+    },
+    {
+      "question": "Public meeting notice requirements exist primarily to:",
+      "type": "multiple_choice",
+      "options": [
+        "Protect the board from lawsuits",
+        "Ensure the superintendent can prepare",
+        "Protect the public's right to participate in governance",
+        "Allow media to attend meetings"
+      ],
+      "correct": 2,
+      "explanation": "Meeting notice requirements are rooted in the public's right to know about and participate in government decision-making. They ensure transparency and access."
+    }
+  ]
+}

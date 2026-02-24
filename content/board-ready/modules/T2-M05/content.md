@@ -1,0 +1,31 @@
+## Overview
+
+Oregon places a strong emphasis on transparency and ethical conduct in public governance, and school board members are held to some of the state's most important legal standards in these areas. Two bodies of law are particularly critical for board members to understand: Oregon's Public Meeting Law, which governs how and when board meetings must be conducted in the open, and Oregon's government ethics requirements, which establish rules around conflicts of interest, financial disclosure, and the acceptance of gifts.
+
+Public Meeting Law is not merely a procedural formality — it is a foundational principle of democratic governance. Oregon law requires that the deliberations and decisions of a governing body, including school boards, take place in meetings that are open to the public, properly noticed, and documented through official minutes. There are limited exceptions — called executive sessions — for specific topics such as personnel matters, litigation, and real property negotiations, but even these are tightly regulated and must be entered through a proper public process.
+
+Since January 1, 2024, Oregon law requires all elected officials to complete public meeting law training each term of service. This mandate reflects the Legislature's recognition that public meeting law violations — even unintentional ones — can undermine public trust and expose the district to legal liability. Board members are expected to complete this training promptly upon taking office, and OSBA is one of the primary providers of the required training.
+
+Oregon's ethics framework, administered by the Oregon Government Ethics Commission (OGEC), adds an additional layer of accountability. Board members must file annual Statements of Economic Interest, disclose potential conflicts of interest before participating in related decisions, and comply with strict limits on gifts and financial benefits. The ethics rules are designed to ensure that public officials act in the public interest, free from personal financial conflicts or undue influence.
+
+## Key Concepts
+
+### ORS Public Meeting Law — Open Meeting Requirements
+
+Oregon's Public Meeting Law (ORS 192.610–192.710) requires that all meetings of a governing body — defined as any convening of a quorum for the purpose of deliberating or deciding public business — be open to the public. This includes regular meetings, special meetings, work sessions, and committee meetings where a quorum of board members is present. The law requires that meetings be held at times and places reasonably accessible to the public, that agendas be posted in advance, and that minutes be taken and made available. Executive sessions are permitted only for specific purposes enumerated in statute, and the board must cite the legal basis for entering executive session on the record. Actions taken in violation of the Public Meeting Law may be voided by a court, and individuals may face personal liability.
+
+### Mandatory Public Meeting Law Training
+
+Effective January 1, 2024, Oregon law (HB 2805, codified in ORS 192) requires all elected officials to complete training on public meeting law during each term of office. The training must be provided by an approved entity — such as OSBA, the Oregon Attorney General's office, or an equivalent provider — and covers topics including open meeting requirements, notice and agenda rules, executive session procedures, and public testimony. Board members should complete this training as soon as possible after taking office, and the district should maintain records of compliance. Failure to complete the training does not void a board member's actions, but it does create compliance risk and may affect the member's credibility and legal standing in the event of a dispute.
+
+### Oregon Public Records Law — What's Public vs. Protected
+
+Oregon's Public Records Law (ORS 192.311–192.478) establishes that records created or received by public officials in connection with public business are presumptively public. This includes emails, text messages, social media messages, voicemails, and written correspondence — regardless of whether they are created on a personal device or a district device. The content, not the medium, determines whether a record is subject to disclosure. There are exemptions for certain categories of records, such as attorney-client privileged communications, personnel records, and student education records (protected under FERPA), but these exemptions are interpreted narrowly. Board members should assume that any communication related to district business may become public and should conduct themselves accordingly.
+
+### OGEC Filings and Annual Requirements
+
+The Oregon Government Ethics Commission (OGEC) requires that school board members file annual Statements of Economic Interest (SEIs), which disclose financial interests, business relationships, and other potential sources of conflict. Board members must also disclose actual or potential conflicts of interest before participating in any discussion or vote on a matter that could affect their financial interests. OGEC enforces strict rules on the acceptance of gifts — public officials generally may not accept gifts exceeding a specified dollar threshold from any single source in a calendar year. These rules are designed to maintain public confidence that board members are acting in the interest of the community, not for personal gain.
+
+### Penalties for Violations
+
+Violations of Oregon's public meeting law and ethics requirements carry real consequences. Public meeting law violations can result in court orders voiding board actions taken in non-compliant meetings, and individuals may face civil penalties. Ethics violations — including failure to file SEIs, failure to disclose conflicts, or acceptance of prohibited gifts — can result in fines, public reprimand, and in severe cases, removal from office. Beyond the legal penalties, violations of transparency and ethics laws cause significant reputational damage to the board and the district, eroding the public trust that is essential to effective governance. Board members should treat compliance with these requirements as a non-negotiable element of their service.

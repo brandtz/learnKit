@@ -1,0 +1,47 @@
+{
+  "id": "T1-M05",
+  "tierId": "T1",
+  "title": "Ethics, Conflicts of Interest & Public Accountability",
+  "estimatedMinutes": 25,
+  "tags": ["Ethics", "Compliance", "Governance"],
+  "sources": [
+    {
+      "label": "OGEC",
+      "title": "Oregon Government Ethics Commission",
+      "url": "https://www.oregon.gov/ogec/pages/index.aspx",
+      "summary": "The state agency overseeing ethics requirements for public officials in Oregon, including financial disclosure, conflict of interest rules, and gift restrictions."
+    },
+    {
+      "label": "OSBA",
+      "title": "Public Meeting Law Training (Mandated)",
+      "url": "https://www.osba.org/osba-offers-public-meeting-training-required-by-state/",
+      "summary": "Information about the state-mandated public meeting law training required for all Oregon elected officials since January 1, 2024."
+    }
+  ],
+  "takeaways": [
+    "School board members are public officials subject to Oregon Government Ethics Commission oversight.",
+    "Conflicts of interest must be publicly declared — and in some cases require recusal from voting.",
+    "Financial disclosure requirements apply to all board members within specific timelines.",
+    "Social media posts by board members can constitute public records and may violate open meeting laws if policy is discussed among a quorum."
+  ],
+  "knowledgeCheck": [
+    {
+      "question": "A board member with a conflict of interest can still vote if they publicly disclose the conflict.",
+      "type": "true_false",
+      "correct": false,
+      "explanation": "Depending on the nature of the conflict (actual vs. potential), a board member may be required to recuse themselves from voting entirely, not just disclose. Actual conflicts require recusal under Oregon law."
+    },
+    {
+      "question": "Which agency oversees ethics requirements for Oregon school board members?",
+      "type": "multiple_choice",
+      "options": [
+        "ODE",
+        "OSBA",
+        "OGEC",
+        "Lane ESD"
+      ],
+      "correct": 2,
+      "explanation": "The Oregon Government Ethics Commission (OGEC) oversees ethics requirements, including financial disclosure and conflict of interest rules, for all public officials including school board members."
+    }
+  ]
+}

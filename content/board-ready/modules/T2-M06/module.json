@@ -1,0 +1,59 @@
+{
+  "id": "T2-M06",
+  "tierId": "T2",
+  "title": "Lane Education Service District (Lane ESD) — Role & Springfield Relationship",
+  "estimatedMinutes": 20,
+  "tags": ["Lane ESD", "Services", "Regional"],
+  "sources": [
+    {
+      "label": "Lane ESD",
+      "title": "Lane ESD Homepage",
+      "url": "https://lesd.k12.or.us/",
+      "summary": "Lane Education Service District's main website, serving all 16 school districts in Lane County with special education, technology, and school improvement services."
+    },
+    {
+      "label": "Lane ESD",
+      "title": "Local Service Plan (2023-25, Year Two)",
+      "url": "https://lesd.k12.or.us/wp-content/uploads/2024/01/23-25-Local-Service-Plan-Year-Two.pdf",
+      "summary": "Lane ESD's current Local Service Plan document outlining the menu of services, funding model, and deliverables for member districts."
+    },
+    {
+      "label": "Lane ESD",
+      "title": "Lane ESD Districts",
+      "url": "https://lesd.k12.or.us/districts/",
+      "summary": "Overview of the 16 school districts served by Lane ESD in Lane County, Oregon."
+    },
+    {
+      "label": "External",
+      "title": "Lane ESD Local Service Plan — Springfield Board Review",
+      "url": "https://citizenportal.ai/articles/6417192/Oregon/Lane-ESD-presents-streamlined-local-service-plan-to-Springfield-board-highlights-funding-mix-and-menucustom-services",
+      "summary": "Coverage of Lane ESD's presentation of its streamlined 11-page Local Service Plan to the Springfield board, highlighting the funding mix and menu/custom service model."
+    }
+  ],
+  "takeaways": [
+    "ESDs are regional service agencies that provide specialized services to school districts — they are not supervisory over local boards.",
+    "Lane ESD serves all 16 districts in Lane County, including Springfield SD 19.",
+    "Springfield's board must review and approve Lane ESD's Local Service Plan, which defines the services the district will receive.",
+    "The ESD funding model blends state funding, federal grants, and local contracts — districts choose from menu and custom service options."
+  ],
+  "knowledgeCheck": [
+    {
+      "question": "Lane ESD has supervisory authority over Springfield SD 19's board decisions.",
+      "type": "true_false",
+      "correct": false,
+      "explanation": "ESDs are service agencies, not supervisory bodies. They provide specialized services (like special education and technology) but do not have authority over local board decisions."
+    },
+    {
+      "question": "How many school districts does Lane ESD serve?",
+      "type": "multiple_choice",
+      "options": [
+        "4",
+        "8",
+        "12",
+        "16"
+      ],
+      "correct": 3,
+      "explanation": "Lane ESD serves all 16 school districts in Lane County, Oregon, providing services including special education, technology, school improvement, and administrative support."
+    }
+  ]
+}

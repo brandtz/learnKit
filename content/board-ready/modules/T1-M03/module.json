@@ -1,0 +1,53 @@
+{
+  "id": "T1-M03",
+  "tierId": "T1",
+  "title": "Board Meeting Structure & Public Conduct",
+  "estimatedMinutes": 25,
+  "tags": ["Meetings", "Public Conduct", "Governance"],
+  "sources": [
+    {
+      "label": "ORS",
+      "title": "ORS Chapter 332 — Board Proceedings",
+      "url": "https://www.oregonlegislature.gov/bills_laws/ors/ors332.html",
+      "summary": "Oregon statute governing how school board meetings must be conducted, including notice requirements and procedural rules."
+    },
+    {
+      "label": "OAR",
+      "title": "OAR 581-021-0020 — District Board Proceedings",
+      "url": "https://oregon.public.law/rules/oar_581-021-0020",
+      "summary": "Oregon Administrative Rule specifying the requirements for district board proceedings, including record-keeping and procedural standards."
+    },
+    {
+      "label": "Springfield SD 19",
+      "title": "Springfield School Board Page",
+      "url": "https://www.springfield.k12.or.us/about/board",
+      "summary": "Springfield Public Schools board page with live examples of meeting agendas, schedules, and board information."
+    }
+  ],
+  "takeaways": [
+    "Every board meeting follows a structured agenda — from call to order through public comment to adjournment.",
+    "Executive sessions are closed to the public but strictly limited to topics defined in ORS (e.g., personnel, litigation, real estate).",
+    "Public comment is a right — boards must provide opportunity, but can set reasonable time limits.",
+    "Board members should avoid discussing board business outside of properly noticed public meetings."
+  ],
+  "knowledgeCheck": [
+    {
+      "question": "Executive sessions can be used to discuss any topic the board considers sensitive.",
+      "type": "true_false",
+      "correct": false,
+      "explanation": "Executive sessions are limited to specific topics defined by Oregon law (ORS 192.660), such as personnel matters, litigation, and real property transactions."
+    },
+    {
+      "question": "What is a consent agenda?",
+      "type": "multiple_choice",
+      "options": [
+        "An agenda that all members have agreed to in advance",
+        "A group of routine items approved with a single vote",
+        "A list of topics for executive session",
+        "An agenda prepared by the superintendent alone"
+      ],
+      "correct": 1,
+      "explanation": "A consent agenda groups routine, non-controversial items (like approval of minutes) to be approved with a single vote, saving meeting time for substantive discussion."
+    }
+  ]
+}

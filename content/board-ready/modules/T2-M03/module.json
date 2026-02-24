@@ -1,0 +1,53 @@
+{
+  "id": "T2-M03",
+  "tierId": "T2",
+  "title": "Oregon Department of Education — Structure & Role",
+  "estimatedMinutes": 20,
+  "tags": ["ODE", "State Structure"],
+  "sources": [
+    {
+      "label": "ODE",
+      "title": "About ODE",
+      "url": "https://www.oregon.gov/ode/about-us/pages/default.aspx",
+      "summary": "Overview of the Oregon Department of Education's mission, organizational structure, and role in supporting Oregon's public education system."
+    },
+    {
+      "label": "ODE",
+      "title": "State Board of Education",
+      "url": "https://www.oregon.gov/ode/about-us/stateboard/Pages/default.aspx",
+      "summary": "Information about Oregon's State Board of Education, including membership, responsibilities, and role in statewide education policy."
+    },
+    {
+      "label": "ODE",
+      "title": "ODE Rules and Policies",
+      "url": "https://www.oregon.gov/ode/rules-and-policies/StateRules/Pages/ODERulesDivision.aspx",
+      "summary": "ODE's central reference for state education rules, policies, and compliance requirements organized by administrative rule division."
+    }
+  ],
+  "takeaways": [
+    "ODE is the state agency that oversees K-12 education in Oregon — it implements policy set by the State Board of Education.",
+    "The State Board of Education has 9 Governor-appointed members and sets statewide education standards.",
+    "The State School Fund is the primary mechanism for distributing state education dollars to districts, based on enrollment (ADMw).",
+    "Local boards must comply with Division 22 standards and report to ODE on academics, finance, and operations."
+  ],
+  "knowledgeCheck": [
+    {
+      "question": "The State Board of Education members are elected by voters.",
+      "type": "true_false",
+      "correct": false,
+      "explanation": "The nine members of the Oregon State Board of Education are appointed by the Governor, not elected. This is different from local school boards, whose members are elected by their communities."
+    },
+    {
+      "question": "The State School Fund distributes money to districts primarily based on:",
+      "type": "multiple_choice",
+      "options": [
+        "Property tax revenue",
+        "Student enrollment (ADMw)",
+        "District geographic size",
+        "Number of schools"
+      ],
+      "correct": 1,
+      "explanation": "The State School Fund distributes funding primarily based on ADMw (Average Daily Membership, weighted), which accounts for student enrollment with additional weights for students with special needs."
+    }
+  ]
+}

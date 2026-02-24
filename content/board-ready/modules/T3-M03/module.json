@@ -1,0 +1,66 @@
+{
+  "id": "T3-M03",
+  "tierId": "T3",
+  "title": "Current Issue — 2026-27 Budget Deficit ($10.4M Projected)",
+  "estimatedMinutes": 30,
+  "tags": ["Budget", "Current Issues"],
+  "sources": [
+    {
+      "label": "Springfield SD 19",
+      "title": "Springfield Public Schools",
+      "url": "https://www.springfield.k12.or.us/",
+      "summary": "Springfield Public Schools homepage with access to news, announcements, and links to board and budget information."
+    },
+    {
+      "label": "Springfield SD 19",
+      "title": "Board of Directors",
+      "url": "https://www.springfield.k12.or.us/about/board",
+      "summary": "Board page with meeting agendas including Budget Committee Work Session materials and minutes."
+    },
+    {
+      "label": "OAR",
+      "title": "OAR Chapter 581, Division 21",
+      "url": "https://oregon.public.law/rules/oar_chapter_581_division_21",
+      "summary": "Administrative rules governing school district governance and fiscal management, relevant to understanding budget obligations and procedures."
+    }
+  ],
+  "takeaways": [
+    "Springfield SD 19 faces a projected $10.4M deficit for the 2026-27 school year — this is the most pressing issue facing the incoming board.",
+    "Oregon's State School Fund is enrollment-driven (ADMw), meaning declining enrollment directly reduces district revenue.",
+    "The budget committee (board members + appointed community members) plays a critical role in reviewing and approving the annual budget.",
+    "Common deficit responses include program reductions, staff layoffs, drawing on reserves, and seeking voter-approved levies.",
+    "New board members should understand the budget timeline — the budget committee process runs from January through June."
+  ],
+  "knowledgeCheck": [
+    {
+      "question": "Springfield's projected budget deficit for 2026-27 is approximately:",
+      "type": "multiple_choice",
+      "options": [
+        "$2.5 million",
+        "$5.8 million",
+        "$10.4 million",
+        "$15.2 million"
+      ],
+      "correct": 2,
+      "explanation": "The projected deficit is approximately $10.4 million for the 2026-27 school year, as presented at the February 12 Budget Committee Work Session."
+    },
+    {
+      "question": "The budget committee consists only of school board members.",
+      "type": "true_false",
+      "correct": false,
+      "explanation": "Oregon budget committees include both board members and appointed community members, ensuring public participation in the budget process."
+    },
+    {
+      "question": "Oregon school district funding is primarily driven by:",
+      "type": "multiple_choice",
+      "options": [
+        "Local property taxes only",
+        "Federal grants",
+        "Student enrollment (ADMw)",
+        "District geographic size"
+      ],
+      "correct": 2,
+      "explanation": "Oregon's State School Fund distributes money primarily based on ADMw (Average Daily Membership, weighted), making student enrollment the primary driver of district revenue."
+    }
+  ]
+}

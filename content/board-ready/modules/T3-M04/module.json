@@ -1,0 +1,48 @@
+{
+  "id": "T3-M04",
+  "tierId": "T3",
+  "title": "Current Issue — Board Position 2 Vacancy & Appointment Process",
+  "estimatedMinutes": 20,
+  "tags": ["Vacancy", "Current Issues", "Governance"],
+  "sources": [
+    {
+      "label": "Springfield SD 19",
+      "title": "Springfield Public Schools",
+      "url": "https://www.springfield.k12.or.us/",
+      "summary": "District homepage with announcements about the Position 2 vacancy and appointment process."
+    },
+    {
+      "label": "ORS",
+      "title": "ORS Chapter 332 — Local Administration of Education",
+      "url": "https://www.oregonlegislature.gov/bills_laws/ors/ors332.html",
+      "summary": "Oregon statute containing the legal requirements for filling school board vacancies, including timelines and procedures."
+    }
+  ],
+  "takeaways": [
+    "Board Position 2 is vacant as of February 2026 — the board is filling this through the statutory appointment process.",
+    "Under ORS 332, the board has a limited timeframe to appoint a replacement — failure to act can trigger County involvement.",
+    "The appointment process typically includes public application, review, candidate interviews, and a board vote in public session.",
+    "An appointed board member serves until the next regular school board election, at which point the position goes to voters.",
+    "The Special Meeting on February 20, 2026 was dedicated to interviewing candidates for the Position 2 vacancy."
+  ],
+  "knowledgeCheck": [
+    {
+      "question": "An appointed board member serves a full four-year term.",
+      "type": "true_false",
+      "correct": false,
+      "explanation": "An appointed board member serves only until the next regular school board election, at which point the position is filled by voters."
+    },
+    {
+      "question": "If a board fails to fill a vacancy within the statutory timeframe, what happens?",
+      "type": "multiple_choice",
+      "options": [
+        "Nothing — the seat remains empty",
+        "The superintendent fills the seat",
+        "The county may intervene to fill the vacancy",
+        "A special election is automatically triggered"
+      ],
+      "correct": 2,
+      "explanation": "Under Oregon law, if a board fails to fill a vacancy within the required timeframe, the county (ESD or county government) may step in to make the appointment."
+    }
+  ]
+}

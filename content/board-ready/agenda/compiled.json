@@ -1,0 +1,188 @@
+[
+  {
+    "date": "2026-02-20",
+    "meetingType": "Special",
+    "topItems": [
+      "Board Position 2 Vacancy — candidate interviews",
+      "Public comment period on board appointment process",
+      "Board deliberation and potential appointment vote"
+    ],
+    "tags": ["Governance"],
+    "budgetFlag": false,
+    "keyDecisions": ["Candidate interviews conducted for Position 2 vacancy"],
+    "summary": "A Special Meeting was held on February 20, 2026 dedicated to interviewing candidates for the vacant Board Position 2. The board heard from applicants and deliberated on the appointment.",
+    "pdfUrl": "https://www.springfield.k12.or.us/about/board"
+  },
+  {
+    "date": "2026-02-12",
+    "meetingType": "Work Session",
+    "topItems": [
+      "Budget Committee Work Session — 2026-27 deficit review",
+      "Projected $10.4M shortfall discussion",
+      "Enrollment trends and State School Fund projections",
+      "Preliminary budget reduction scenarios",
+      "Community input on budget priorities"
+    ],
+    "tags": ["Budget"],
+    "budgetFlag": true,
+    "keyDecisions": [],
+    "summary": "The February 12 Budget Committee Work Session focused on the district's projected $10.4M deficit for 2026-27, with leadership presenting enrollment-driven funding concerns and preliminary budget reduction scenarios.",
+    "pdfUrl": "https://www.springfield.k12.or.us/about/board"
+  },
+  {
+    "date": "2026-02-10",
+    "meetingType": "Regular",
+    "topItems": [
+      "Superintendent report on district operations",
+      "Lane ESD Local Service Plan presentation",
+      "Native American Student Union Summit update (Feb 19)",
+      "Consent agenda — minutes approval and routine items",
+      "Future Colts program report"
+    ],
+    "tags": ["Governance", "Community"],
+    "budgetFlag": false,
+    "keyDecisions": ["Approved consent agenda items"],
+    "summary": "The February 10 Regular Meeting included a Lane ESD Local Service Plan presentation, updates on the NASU Summit and Future Colts program, and routine board business.",
+    "pdfUrl": "https://www.springfield.k12.or.us/about/board"
+  },
+  {
+    "date": "2026-01-27",
+    "meetingType": "Work Session",
+    "topItems": [
+      "Board goals review and mid-year progress",
+      "Superintendent evaluation process discussion",
+      "2026-27 budget timeline overview",
+      "Board self-assessment"
+    ],
+    "tags": ["Governance"],
+    "budgetFlag": false,
+    "keyDecisions": [],
+    "summary": "The January 27 Work Session focused on reviewing board goals, discussing the superintendent evaluation process, and previewing the 2026-27 budget development timeline.",
+    "pdfUrl": "https://www.springfield.k12.or.us/about/board"
+  },
+  {
+    "date": "2026-01-13",
+    "meetingType": "Regular",
+    "topItems": [
+      "Superintendent report on enrollment trends",
+      "First reading — policy updates (OSBA model policies)",
+      "Budget Committee appointments",
+      "Public comment — community concerns on programs",
+      "Consent agenda — December minutes, financial reports"
+    ],
+    "tags": ["Governance", "Policy", "Budget"],
+    "budgetFlag": true,
+    "keyDecisions": ["Appointed Budget Committee community members", "Approved consent agenda"],
+    "summary": "The January 13 Regular Meeting included the superintendent's enrollment report, first readings of updated OSBA model policies, appointment of Budget Committee community members, and public comment.",
+    "pdfUrl": "https://www.springfield.k12.or.us/about/board"
+  },
+  {
+    "date": "2025-12-08",
+    "meetingType": "Regular",
+    "topItems": [
+      "Annual audit report presentation",
+      "Second reading and adoption of policy updates",
+      "Special education program review",
+      "Superintendent report",
+      "Public recognition — student achievement awards"
+    ],
+    "tags": ["Budget", "Policy", "Special Ed"],
+    "budgetFlag": true,
+    "keyDecisions": ["Accepted annual audit report", "Adopted revised policies"],
+    "summary": "The December 8 Regular Meeting featured the annual audit report, adoption of revised board policies, a special education program update, and student recognition.",
+    "pdfUrl": "https://www.springfield.k12.or.us/about/board"
+  },
+  {
+    "date": "2025-11-17",
+    "meetingType": "Work Session",
+    "topItems": [
+      "Facilities planning update",
+      "Long-range capital improvement discussion",
+      "School safety review",
+      "Technology infrastructure assessment"
+    ],
+    "tags": ["Facilities"],
+    "budgetFlag": false,
+    "keyDecisions": [],
+    "summary": "The November 17 Work Session covered facilities planning, long-range capital improvements, school safety protocols, and a technology infrastructure assessment across the district.",
+    "pdfUrl": "https://www.springfield.k12.or.us/about/board"
+  },
+  {
+    "date": "2025-11-10",
+    "meetingType": "Regular",
+    "topItems": [
+      "Curriculum adoption update — HQIM compliance",
+      "Pathways Program report",
+      "Board policy first readings",
+      "Public comment",
+      "Consent agenda"
+    ],
+    "tags": ["Curriculum", "Policy"],
+    "budgetFlag": false,
+    "keyDecisions": ["Approved consent agenda"],
+    "summary": "The November 10 Regular Meeting included updates on HQIM curriculum adoption, the Pathways Program, first readings of board policies, and routine business.",
+    "pdfUrl": "https://www.springfield.k12.or.us/about/board"
+  },
+  {
+    "date": "2025-10-27",
+    "meetingType": "Work Session",
+    "topItems": [
+      "Student achievement data review (state assessments)",
+      "Graduation rate analysis",
+      "English learner program update",
+      "Social-emotional learning program review"
+    ],
+    "tags": ["Curriculum", "Community"],
+    "budgetFlag": false,
+    "keyDecisions": [],
+    "summary": "The October 27 Work Session focused on student achievement data, graduation rates, English learner program effectiveness, and social-emotional learning initiatives.",
+    "pdfUrl": "https://www.springfield.k12.or.us/about/board"
+  },
+  {
+    "date": "2025-10-13",
+    "meetingType": "Regular",
+    "topItems": [
+      "Superintendent report",
+      "Personnel report — hiring and vacancies",
+      "First student count report (enrollment)",
+      "Public comment",
+      "Consent agenda — September minutes"
+    ],
+    "tags": ["Personnel", "Governance"],
+    "budgetFlag": false,
+    "keyDecisions": ["Approved consent agenda", "Received first student count data"],
+    "summary": "The October 13 Regular Meeting covered personnel updates, the first official student count enrollment report, and routine board business.",
+    "pdfUrl": "https://www.springfield.k12.or.us/about/board"
+  },
+  {
+    "date": "2025-09-22",
+    "meetingType": "Work Session",
+    "topItems": [
+      "Back-to-school report — all 21 schools",
+      "Transportation update",
+      "Enrollment projections for 2025-26",
+      "Board retreat planning"
+    ],
+    "tags": ["Governance", "Community"],
+    "budgetFlag": false,
+    "keyDecisions": [],
+    "summary": "The September 22 Work Session featured the superintendent's back-to-school report covering all 21 schools, transportation updates, and initial enrollment projections.",
+    "pdfUrl": "https://www.springfield.k12.or.us/about/board"
+  },
+  {
+    "date": "2025-09-08",
+    "meetingType": "Regular",
+    "topItems": [
+      "Superintendent report — school year opening",
+      "Budget update — beginning fund balance",
+      "OSBA membership renewal",
+      "Board committee assignments",
+      "Consent agenda — August minutes"
+    ],
+    "tags": ["Governance", "Budget"],
+    "budgetFlag": true,
+    "keyDecisions": ["Renewed OSBA membership", "Approved board committee assignments"],
+    "summary": "The September 8 Regular Meeting opened the 2025-26 school year with the superintendent's report, a budget update on beginning fund balance, OSBA membership renewal, and committee assignments.",
+    "pdfUrl": "https://www.springfield.k12.or.us/about/board"
+  }
+]

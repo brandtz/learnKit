@@ -1,0 +1,47 @@
+{
+  "id": "T1-M04",
+  "tierId": "T1",
+  "title": "Board Policy — How It Works",
+  "estimatedMinutes": 20,
+  "tags": ["Policy", "Governance"],
+  "sources": [
+    {
+      "label": "OSBA",
+      "title": "OSBA Policy Services",
+      "url": "https://www.osba.org/departments/",
+      "summary": "Overview of OSBA's policy department which provides model policies, legal updates, and policy review services to Oregon school districts."
+    },
+    {
+      "label": "OSBA",
+      "title": "Board Development Services",
+      "url": "https://www.osba.org/board-training-workshops/",
+      "summary": "OSBA's training and workshop offerings for board members, including policy development, governance, and effective meeting practices."
+    }
+  ],
+  "takeaways": [
+    "Board policy sets the 'what' and 'why' — administrative regulations set the 'how.'",
+    "OSBA provides model policies that districts can adopt and customize to local needs.",
+    "The board adopts policy; the superintendent implements it through administrative regulations.",
+    "Policies should be reviewed on a regular cycle to ensure legal compliance and relevance."
+  ],
+  "knowledgeCheck": [
+    {
+      "question": "Administrative regulations are adopted by the school board.",
+      "type": "true_false",
+      "correct": false,
+      "explanation": "Administrative regulations are developed by the superintendent and staff to implement board policy. The board adopts policy; the superintendent creates the regulations to carry it out."
+    },
+    {
+      "question": "What organization provides model policies for Oregon school districts?",
+      "type": "multiple_choice",
+      "options": [
+        "ODE",
+        "OSBA",
+        "OGEC",
+        "Lane ESD"
+      ],
+      "correct": 1,
+      "explanation": "The Oregon School Boards Association (OSBA) provides model policies that districts can adopt and customize to their local context."
+    }
+  ]
+}

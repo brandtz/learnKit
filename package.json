@@ -1,0 +1,25 @@
+{
+  "name": "learnkit",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "ingest": "node scripts/ingest.js",
+    "ingest:scrape": "node scripts/ingest/01-scrape-agendas.js",
+    "ingest:download": "node scripts/ingest/02-download-pdfs.js",
+    "ingest:parse": "node scripts/ingest/03-parse-pdfs.js",
+    "ingest:summarize": "node scripts/ingest/04-summarize.js",
+    "ingest:compile": "node scripts/ingest/05-compile.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "dependencies": {
+    "@anthropic-ai/sdk": "^0.78.0",
+    "cheerio": "^1.2.0",
+    "minimist": "^1.2.8",
+    "node-fetch": "^3.3.2",
+    "pdf-parse": "^2.4.5"
+  }
+}

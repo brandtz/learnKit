@@ -1,0 +1,47 @@
+{
+  "id": "T2-M05",
+  "tierId": "T2",
+  "title": "Public Meeting Law & Oregon Ethics Requirements",
+  "estimatedMinutes": 25,
+  "tags": ["Compliance", "Ethics", "Public Meeting Law"],
+  "sources": [
+    {
+      "label": "OSBA",
+      "title": "Public Meeting Law Training (State Mandate)",
+      "url": "https://www.osba.org/osba-offers-public-meeting-training-required-by-state/",
+      "summary": "Details about the state-mandated public meeting law training that all Oregon elected officials must complete, effective January 1, 2024."
+    },
+    {
+      "label": "OGEC",
+      "title": "Oregon Government Ethics Commission",
+      "url": "https://www.oregon.gov/ogec/pages/index.aspx",
+      "summary": "The state agency responsible for enforcing ethics laws for public officials, including financial disclosure, conflict of interest, and gift rules."
+    }
+  ],
+  "takeaways": [
+    "Oregon's Public Meeting Law requires that all meetings of a governing body be open to the public, with limited exceptions.",
+    "Since January 1, 2024, all elected officials in Oregon must complete public meeting law training each term.",
+    "Public records requests can apply to board members' emails, texts, and social media if they relate to public business.",
+    "Violations of public meeting law or ethics requirements can result in voided actions, fines, or removal from office."
+  ],
+  "knowledgeCheck": [
+    {
+      "question": "Public meeting law training is optional for Oregon school board members.",
+      "type": "true_false",
+      "correct": false,
+      "explanation": "Since January 1, 2024, public meeting law training is mandatory for all elected officials in Oregon, including school board members. It must be completed each term."
+    },
+    {
+      "question": "A board member's personal text messages about school business are:",
+      "type": "multiple_choice",
+      "options": [
+        "Always private and protected",
+        "Potentially subject to public records requests",
+        "Only subject to records requests if sent during meetings",
+        "Protected unless sent from a district device"
+      ],
+      "correct": 1,
+      "explanation": "Under Oregon's Public Records Law, communications about public business — including personal texts and emails — may be subject to public records requests regardless of the device used."
+    }
+  ]
+}

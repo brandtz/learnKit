@@ -1,0 +1,29 @@
+{
+  "packageId": "board-ready",
+  "siteName": "Board Ready",
+  "siteTagline": "Springfield School Board Member Onboarding",
+  "organizationName": "Springfield Public Schools",
+  "logoUrl": "/favicon.svg",
+  "theme": {
+    "primaryColor": "#1e293b",
+    "accentColor": "#047857",
+    "neutralColor": "#f9fafb",
+    "darkPrimaryColor": "#0f172a",
+    "darkAccentColor": "#34d399"
+  },
+  "features": {
+    "agendaTracker": true,
+    "issuesPanel": true,
+    "glossary": true,
+    "knowledgeChecks": true,
+    "darkMode": true,
+    "printView": true
+  },
+  "tiers": [
+    { "id": "T1", "label": "Governance Foundations", "description": "Universal board member knowledge" },
+    { "id": "T2", "label": "Oregon-Specific Requirements", "description": "State statutes, OARs, OSBA standards" },
+    { "id": "T3", "label": "Springfield-Specific Context", "description": "Local issues, budget, board history" }
+  ],
+  "agendaSourceUrl": "https://www.springfield.k12.or.us/about/board",
+  "footerText": "Built by Brandtworks-Enterprises LLC | Non-commercial civic tool"
+}

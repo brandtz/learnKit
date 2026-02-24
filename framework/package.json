@@ -1,0 +1,32 @@
+{
+  "name": "framework",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "lucide-vue-next": "^0.575.0",
+    "marked": "^17.0.3",
+    "pinia": "^3.0.4",
+    "vue": "^3.5.29",
+    "vue-router": "^4.6.4"
+  },
+  "devDependencies": {
+    "@tailwindcss/typography": "^0.5.19",
+    "@vitejs/plugin-vue": "^5.2.4",
+    "autoprefixer": "^10.4.24",
+    "eslint": "^9.39.3",
+    "postcss": "^8.5.6",
+    "prettier": "^3.8.1",
+    "tailwindcss": "^3.4.19",
+    "vite": "^5.4.21"
+  }
+}

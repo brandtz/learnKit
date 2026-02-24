@@ -1,0 +1,13 @@
+[build]
+  base = "framework"
+  publish = "dist"
+  command = "npm run build"
+
+[build.environment]
+  VITE_CONTENT_PACKAGE = "board-ready"
+  VITE_CONTENT_BASE_PATH = "../content/board-ready"
+
+[[redirects]]
+  from = "/*"
+  to = "/index.html"
+  status = 200

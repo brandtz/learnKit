@@ -1,0 +1,60 @@
+{
+  "id": "T3-M05",
+  "tierId": "T3",
+  "title": "Current Issue — Curriculum, Programs & Community Priorities",
+  "estimatedMinutes": 25,
+  "tags": ["Curriculum", "Community", "Current Issues"],
+  "sources": [
+    {
+      "label": "Springfield SD 19",
+      "title": "Springfield Public Schools",
+      "url": "https://www.springfield.k12.or.us/",
+      "summary": "District homepage with news about programs, community events, and educational initiatives."
+    },
+    {
+      "label": "ODE",
+      "title": "ODE Instructional Materials",
+      "url": "https://www.oregon.gov/ode/educator-resources/teachingcontent/instructional-materials/",
+      "summary": "ODE's resource page for High Quality Instructional Materials (HQIM) standards, adoption procedures, and approved materials lists."
+    },
+    {
+      "label": "Lane ESD",
+      "title": "Lane ESD Homepage",
+      "url": "https://lesd.k12.or.us/",
+      "summary": "Lane ESD's website with information about special education services, school improvement programs, and regional partnerships."
+    },
+    {
+      "label": "Springfield SD 19",
+      "title": "Pathways Program",
+      "url": "https://www.springfield.k12.or.us/hr/pathways",
+      "summary": "Springfield's Pathways educator pipeline program, a partnership with Lane ESD to grow and develop local teaching talent."
+    }
+  ],
+  "takeaways": [
+    "HQIM (High Quality Instructional Materials) adoption is an ODE requirement — the board plays a formal role in approving curriculum materials.",
+    "Special education compliance is a legal obligation — Springfield partners with Lane ESD for specialized services and IEP support.",
+    "Community engagement programs like the NASU Summit and Future Colts reflect the district's commitment to diverse student populations.",
+    "The Pathways Program addresses teacher pipeline challenges by growing local talent through Lane ESD partnership.",
+    "Board members should understand these programs to make informed decisions about funding priorities and community impact."
+  ],
+  "knowledgeCheck": [
+    {
+      "question": "HQIM stands for:",
+      "type": "multiple_choice",
+      "options": [
+        "Highly Quantified Institutional Measures",
+        "High Quality Instructional Materials",
+        "Higher Quality Implementation Methods",
+        "Human Quality Improvement Metrics"
+      ],
+      "correct": 1,
+      "explanation": "HQIM stands for High Quality Instructional Materials. ODE requires districts to adopt HQIM-aligned curriculum, and the board has a formal role in approving these materials."
+    },
+    {
+      "question": "The board has no role in curriculum adoption decisions.",
+      "type": "true_false",
+      "correct": false,
+      "explanation": "While the superintendent and staff lead the curriculum review process, the board has a formal role in approving the adoption of instructional materials. This is an important governance responsibility."
+    }
+  ]
+}
